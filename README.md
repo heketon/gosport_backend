@@ -2,7 +2,7 @@
 
 ## API
 
-[users API](api_user.md)
+[users API](api_users.md)
 
-[venue API](api_venue.md)
+[venue API](api_venues.md)
 
